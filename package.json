@@ -1,0 +1,22 @@
+{
+    "name": "srv-util",
+    "version": "0.0.1",
+    "description": "Utilities for server blueprint",
+    "license": "MIT",
+    "author": {
+        "name": "Aleksandras Novikovas",
+        "email": "Aleksandras.Novikovas@gmail.com"
+    },
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Aleksandras-Novikovas/srv-util.git"
+    },
+    "dependencies": {
+        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git",
+        "xml2js": "^0.4.17"
+    },
+    "devDependencies": {
+        "jsdoc": "^3.4.3"
+    }
+}
