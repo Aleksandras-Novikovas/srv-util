@@ -13,7 +13,7 @@
         "url": "git://github.com/Aleksandras-Novikovas/srv-util.git"
     },
     "dependencies": {
-        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git",
+        "srv-core": "^0.0.1",
         "xml2js": "^0.4.17"
     },
     "devDependencies": {
