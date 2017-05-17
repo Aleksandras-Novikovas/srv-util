@@ -1,6 +1,6 @@
 {
     "name": "srv-util",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "description": "Utilities for server blueprint",
     "license": "MIT",
     "author": {
@@ -13,7 +13,7 @@
         "url": "git://github.com/Aleksandras-Novikovas/srv-util.git"
     },
     "dependencies": {
-        "srv-core": "^0.0.1",
+        "srv-core": "^1.0.0",
         "xml2js": "^0.4.17"
     },
     "devDependencies": {
